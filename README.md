@@ -11,10 +11,13 @@ samples, guidance on mobile development, and a full API reference.
 ## Learning Concepts
 
 - Animation
-- AnimationController
-- AnimatedBuilder
-- Transform Widget
 - Tween Widget
+- ListView Widget
+- Interval Widget
+- Transform Widget
+- AnimationController
+- AnimatedBuilder Widget
+- CurvedAnimation Widget
 
 # Screenshot
 
