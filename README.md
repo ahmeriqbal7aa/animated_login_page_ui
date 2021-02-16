@@ -23,3 +23,7 @@ samples, guidance on mobile development, and a full API reference.
 # Working
 
 <img src="https://user-images.githubusercontent.com/73339220/107846277-3c911e00-6e04-11eb-8c4d-dcc081400245.gif" width=300 />
+
+# Working_with_Delayed_Animation
+
+<img src="https://user-images.githubusercontent.com/73339220/108022943-6421f980-7043-11eb-8f69-ba13889b2ad9.gif" width=300 />
