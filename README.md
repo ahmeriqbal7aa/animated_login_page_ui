@@ -30,3 +30,7 @@ samples, guidance on mobile development, and a full API reference.
 # Working_with_Delayed_Animation
 
 <img src="https://user-images.githubusercontent.com/73339220/108022943-6421f980-7043-11eb-8f69-ba13889b2ad9.gif" width=300 />
+
+# Working_with_Parent_Animation
+
+<img src="https://user-images.githubusercontent.com/73339220/108030640-5ffcd880-7051-11eb-911d-a5fac7ba5000.gif" width=300 />
